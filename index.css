@@ -1,7 +1,7 @@
 body
 {
     font-family: "Comfortaa", sans-serif;
-}
+    
 .heading
 {
     width: fit-content;
@@ -37,8 +37,8 @@ p
 .myImageCircle
 {
     border-radius:50%;
-    height:200px;
-    width:200px;
+    height:300px;
+    width:300px;
     border: 5px white solid;
 }
 .heroSectionContent p  
